@@ -1,1 +1,1 @@
-Upload index.html and the images folder to GitHub. Netlify will serve index.html at the site root. Keep the images folder at the same level as index.html.
+Upload/replace index.html and all product-XX.jpg files at the root level of the GitHub repo. Do not put these files inside the fake images file/folder.
